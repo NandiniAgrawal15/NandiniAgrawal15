@@ -27,7 +27,7 @@
 
 <p align="center">
     <a href="https://github.com/NandiniAgrawal15/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nandini Agrawal's Streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NandiniAgrawal15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nandini Agrawal's Streak" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
     </a>
 </p>
 
