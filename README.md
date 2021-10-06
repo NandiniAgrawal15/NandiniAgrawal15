@@ -27,12 +27,11 @@
 
 <p align="center">
     <a href="https://github.com/NandiniAgrawal15/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nandini Agrawal's Streak" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nandini Agrawal's Streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandiniAgrawal15&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<a href="(https://github.com/NandiniAgrawal15/github-readme-stats)"><img alt="Nandini Agrawal's Github Stats" src="[![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandiniAgrawal15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)]" /></a>
+<a href="https://github.com/NandiniAgrawal15/github-readme-stats"><img alt="Nandini Agrawal's Github Stats" src="(https://github-readme-stats.vercel.app/api?username=NandiniAgrawal15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)" /></a>
 
 
 <a href="(https://github.com/NandiniAgrawal15/github-readme-stats)"><img alt="NandiniAgrawal's Top Languages" src="h[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniAgrawal15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)]></a>
