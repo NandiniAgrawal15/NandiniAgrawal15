@@ -1,6 +1,6 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandini Agrawal
 
-- 🔭 I’m currently 2nd year undergrad at JIIT, Noida.
+- 🔭 I’m currently 3rd year undergrad at JIIT, Noida.
 - 🌱 I’m currently learning DSA.
 - 🤔 I’m really passionate about Competitive Programming
 - 🤠 My Competitive Programming Profiles on different online coding platforms.
