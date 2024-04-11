@@ -1,12 +1,8 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandini Agrawal
 
-- 🔭 I’m currently 3rd year undergrad at JIIT, Noida.
+- 🔭 I’m Final year undergrad at JIIT, Noida.
 - 🌱 I’m currently learning MERN Stack.
 - 🤔 I’m really passionate about Competitive Programming
-- 🤠 My Competitive Programming Profiles on different online coding platforms.
-     1. CodeChef Profile - [Click Here](https://www.codechef.com/users/nandini_1503)
-     2. Codeforces Profile - [Click Here](https://codeforces.com/profile/_nandini)
-     3. HackerRank Profile - [Click Here](https://www.hackerrank.com/agrawalnandini11)
 - 💬 Ask me about any tech related query.
 - 📫 How to reach me: LinkedIn - [Click Here](https://www.linkedin.com/in/nandini-agrawal-0b2702203/)
 - 😄 Moto: NEVER GIVE UP.
